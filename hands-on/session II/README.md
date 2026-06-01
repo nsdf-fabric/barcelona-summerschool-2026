@@ -632,7 +632,7 @@ This project was created by the [NSDF team](https://nationalsciencedatafabric.or
 The authors of this tutorial would like to express their gratitude to:
 
 - NSF through the awards 2138811, 2103845, 2334945, 2138296, and 2331152.
-- OSDF [link](https://osg-htc.org/services/osdf) and Pelican [link](https://pelicanplatform.org/)
+- Open Science Data Federation [link](https://osg-htc.org/services/osdf) and Pelican Platform [link](https://pelicanplatform.org/)
 - The Dataverse team [link](https://dataverse.org/about)
 - Vargas Lab led by Dr. Rodrigo Vargas [link](https://www.udel.edu/academics/colleges/canr/departments/plant-and-soil-sciences/faculty-staff/rodrigo-vargas/)
 
